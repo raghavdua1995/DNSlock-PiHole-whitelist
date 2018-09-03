@@ -234,7 +234,6 @@ ctldl.windowsupdate.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
-s3.amazonaws.com
 dns.msftncsi.com
 g.live.com
 goo.gl
@@ -500,3 +499,7 @@ meetu.ps
 www.meetu.ps
 apis.mail.yahoo.com
 smtp.mail.yahoo.com
+encrypted-tbn0.gstatic.com
+cdn.onenote.net
+eff.org
+www.eff.org
